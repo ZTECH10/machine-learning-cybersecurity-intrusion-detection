@@ -15,9 +15,9 @@ The Random Forest model achieved the following performance metrics on the test s
 
 `Features:`
 
-- Model Training: Includes scripts for training the Random Forest model.
-- Data Preprocessing: encoding categorical variables
-- Evaluation: Code for evaluating the model using various performance metrics and visualizing feature importances.
+- Model Training: Includes code for training the Random Forest model.
+- Data Preprocessing: Includes code for encoding categorical variables
+- Evaluation: Includes code for evaluating the model using various performance metrics and visualizing feature importances.
 
 
 
