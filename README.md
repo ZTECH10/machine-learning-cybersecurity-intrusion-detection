@@ -11,7 +11,7 @@ The Random Forest model achieved the following performance metrics on the test s
 
 - Accuracy: 95.24%
 - Recall: 93.07%
--recision: 98.99%
+- Precision: 98.99%
 
 `Features:`
 
