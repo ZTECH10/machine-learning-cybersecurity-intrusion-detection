@@ -16,12 +16,6 @@ The Random Forest classifier model  to detect cyberattacks achieved the followin
 
 The model's high precision and recall indicate strong performance in detecting cyberattacks, making it effective and reliable for real-world application.
 
-`Features:`
-
-- Model Training: Includes code for training the Random Forest model.
-- Data Preprocessing: Includes code for encoding categorical variables
-- Evaluation: Includes code for evaluating the model using various performance metrics and visualizing feature importances.
-
 
 `Data Analysis`
 - Conducted correlation analysis with heatmaps to identify network variables associated with cyberattacks.
