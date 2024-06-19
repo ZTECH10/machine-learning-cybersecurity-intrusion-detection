@@ -7,11 +7,14 @@ This repository contains code and data for detecting cyberattacks using machine 
 `Model Performance:`
 
 
-The Random Forest model achieved the following performance metrics on the test set:
+The Random Forest classifier model  to detect cyberattacks achieved the following performance metrics on the test set:
 
-- Accuracy: 95.24%
-- Recall: 93.07%
-- Precision: 98.99%
+- Accuracy: 95.24% - High overall correctness.
+- Recall: 93.07% - Effective in identifying actual attacks, minimizing false negatives.
+- Precision: 98.99% - High precision, minimizing false positives.
+
+
+The model's high precision and recall indicate strong performance in detecting cyberattacks, making it effective and reliable for real-world application.
 
 `Features:`
 
@@ -20,6 +23,10 @@ The Random Forest model achieved the following performance metrics on the test s
 - Evaluation: Includes code for evaluating the model using various performance metrics and visualizing feature importances.
 
 
+`Data Analysis`
+- Conducted correlation analysis with heatmaps to identify network variables associated with cyberattacks.
+- Identified network variables positively and negatively correlated with cyberattacks and highlighted strong correlations among variables.
+- Evaluated model performance and visualized feature importances.
 
 
 <img width="761" alt="Percentage of Different Types of Attacks" src="https://github.com/ZTECH10/machine-learning-cybersecurity-intrusion-detectio/assets/53150477/b48e7a65-194b-4c44-963a-d527a6306f00">
